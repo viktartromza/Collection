@@ -9,5 +9,5 @@ public class Main {
         System.out.println(animalCollection);
         animalCollection.removeAnimal();
         System.out.println(animalCollection);
-            }
+    }
 }
